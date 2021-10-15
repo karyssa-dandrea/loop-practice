@@ -1,5 +1,19 @@
 # Alchemy Bootstrap Template
 
+* Using a loop to dynamically create elements on the page
+* Make an array with information that our loop can go through
+* In the array there will be objects, and in the objects it will have the name, description and image
+* Create a card with elements:
+- div element
+    - name, picture and description
+    - h2, <img>, <p> 
+- Append children elements to that div    
+
+
+
+- In the loop,append div element to page
+
+
 ## Making a plan
 
 (bolded steps are mandatory, unbolded are for more advanced projects)
